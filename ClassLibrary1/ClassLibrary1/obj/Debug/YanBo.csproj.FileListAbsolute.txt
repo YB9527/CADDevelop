@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\FileOperate.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\YanBo.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

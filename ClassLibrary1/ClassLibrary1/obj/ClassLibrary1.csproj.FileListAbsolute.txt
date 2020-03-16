@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\Desktop\vb\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
